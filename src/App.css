@@ -1,3 +1,39 @@
+/* .social-container {
+  background: #eee;
+  padding: 25px 50px;
+} */
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+a.github {
+  color: #020202;
+}
+
+a.facebook {
+  color: #4968ad;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
+a.instagram {
+  color: rgb(201, 74, 171);
+}
+
+a.linkedin {
+  color: #1a72bb;
+}
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +72,4 @@
     transform: rotate(360deg);
   }
 }
+
