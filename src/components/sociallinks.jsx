@@ -12,14 +12,14 @@ export default function sociallinks() {
   return <div className="sociallinks">
     <div class="social-container">
       <h3>Social Follow</h3>
-      <a href="https://www.facebook.com/learnbuildteach/"
+      <a href="https://www.facebook.com/ariel.chen.733076"
         className="facebook social">
         <FontAwesomeIcon icon={faFacebook} size="2x" />
       </a>
-      <a href="https://www.twitter.com/jamesqquick" className="twitter social">
+      <a href="https://twitter.com/chen_wanqi0924" className="twitter social">
         <FontAwesomeIcon icon={faTwitter} size="2x" />
       </a>
-      <a href="https://www.instagram.com/learnbuildteach"
+      <a href="https://www.instagram.com/chen_wanqi0924/"
         className="instagram social">
         <FontAwesomeIcon icon={faInstagram} size="2x" />
       </a>
